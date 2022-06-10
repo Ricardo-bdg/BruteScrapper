@@ -4,7 +4,7 @@
 <img src="https://github.com/Neek0tine/Scrapper/blob/main/assets/1-01.jpg" alt="DaNg" width="800"/><br>
 
 # What is it?
-**HOW TO WEBSCRAP** is a joint repository of the three musketeers whose goal is just one: **Avoid anti-bot websites**
+**HOW TO WEBSCRAP** is a joint repository of the three musketeers whose goal is just one: **Avoid anti-bot websites**, a last resort.
 
 There are three main phases on anti-bot website difficulty. 
 * ### Requests
